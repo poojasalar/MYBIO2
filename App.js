@@ -54,7 +54,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flexGrow: 1,
-    backgroundColor: 'pink', // Soft pastel blue background
+    backgroundColor: 'red', // Soft pastel blue background
     padding: 50,
   },
   profileContainer: {
